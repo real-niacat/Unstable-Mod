@@ -1,0 +1,11 @@
+{
+	"id": "unstablemod",
+	"name": "Unstable Mod", 
+	"author": ["ivy", "cro", "John Balatr"], 
+	"description": "",
+	"prefix": "usm",
+	"main_file": "primary.lua",
+	"priority": 66666, 
+	"badge_colour": "FFFFFF",
+	"version": "1.0.0", 
+}
