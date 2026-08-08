@@ -4011,28 +4011,22 @@ return {
         },
         tutorial={
             bb_1={
-                "Selecting the {C:attention}Big Blind",
-                "will earn some cash",
+                "Selecting this Blind may be beneficial to you...",
             },
             bb_2={
-                "Or choose to {C:attention}skip it",
-                "to get a {C:attention}Tag{}! Each",
-                "{C:attention}Tag{} has a unique effect",
+                "Skipping this Blind might do something!",
+                "Try experimenting!",
             },
             bb_3={
-                "But keep an eye on",
-                "the {C:attention}Boss Blind{}. It",
-                "has an ability you'll",
-                "need to plan around.",
+                "But keep an eye out on... oh...",
+                "you don't even want to know... {C:red,E:1}the horror...",
             },
             bb_4={
-                "if you beat it, then the",
-                "{C:attention}Ante{} goes up and all",
-                "{C:attention}Blinds{} become harder",
+                "If you beat it... well...",
+                "I don't think I even need to say this...",
             },
             bb_5={
-                "Beat {C:attention}Ante{} #1# to win.",
-                "Now choose your path!",
+                "You should Try experimenting!",
             },
             fh_1={
                 "You must play Poker hands to earn {C:purple}score.{}"
@@ -4126,26 +4120,16 @@ return {
                 "Start by selecting this blind",
             },
             sh_1={
-                "When you get more cards,",
-                "remember you can rearrange",
-                "them. {C:attention}Jokers{} trigger in",
-                "order from left to right",
+                "When you get more cards, remember to experiment with them",
             },
             sh_2={
-                "And make sure that you",
-                "{C:attention}USE{} your consumables!",
+                "And make sure to well... you already know...",
             },
             sh_3={
-                "Select up to {C:attention}2{} cards",
-                "in your hand and press",
-                "{C:attention}'USE'{} on the {C:tarot}Tarot{} card",
-                "to enhance them!",
+                "Try experimenting!",
             },
             sh_3_touch={
-                "Select up to {C:attention}2{} cards",
-                "in your hand and drag",
-                "the {C:tarot}Tarot{} card into the {C:attention}'USE'{}",
-                "area to enhance them!",
+                "Try experimenting!",
             },
         },
         v_dictionary={
