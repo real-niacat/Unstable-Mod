@@ -1298,9 +1298,8 @@ return {
             j_oops={
                 name="Oops! All 6s",
                 text={
-                    "Doubles all {C:attention}listed",
-                    "{C:green,E:1,S:1.1}probabilities",
-                    "{C:inactive}(ex: {C:green}1 in 3{C:inactive} -> {C:green}2 in 3{C:inactive})",
+                    "Certain {C:green,E:1}probabilities",
+                    "become {C:attention}more likely"
                 },
                 unlock={
                     "In one hand,",
