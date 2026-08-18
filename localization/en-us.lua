@@ -106,11 +106,10 @@ return {
                     "{C:red}X#1#{} base Blind size",
                 },
             },
-            b_red = {
+            b_red = { -- !!
                 name = "Red Deck",
                 text = {
-                    "{C:red}+#1#{} discard",
-                    "every round",
+                    "Who {C:attention}Knows{} Bro",
                 },
             },
             b_yellow = {
