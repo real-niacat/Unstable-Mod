@@ -1111,15 +1111,15 @@ return {
             j_joker={
                 name="Joker",
                 text={
-                    "{C:red,s:1.1}+#1#{} Mult",
+                    "+4 Multiplier to your Chips",
+                    "{C:inactive}Its {C:red,s:2.5,E:1}Me.......{}"
                 },
             },
             j_jolly={
                 name="Jolly Joker",
                 text={
-                    "{C:red}+#1#{} Mult if played",
-                    "hand contains",
-                    "a {C:attention}#2#",
+                    "{s:3}+#1#{C:attention} #2#{} Size",
+                    "{E:1,C:red}You might want to consider looking out for a Mercury card..."
                 },
             },
             j_juggler={
