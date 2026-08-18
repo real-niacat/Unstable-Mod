@@ -751,7 +751,7 @@ return {
             j_credit_card = { -- !!
                 name = "Credit Card",
                 text = {
-                    "You can go up to a certain amount into Debt"
+                    "You can go up to a certain amount into Debt",
                     "You might want to look for a Wraith"
                 },
             },
