@@ -4009,125 +4009,125 @@ return {
             Spades = "Spade",
         },
         tutorial = {
-            bb_1 = {
+            bb_1 = { -- !!
                 "Selecting this Blind may be beneficial to you...",
             },
-            bb_2 = {
+            bb_2 = { -- !!
                 "Skipping this Blind might do something!",
                 "Try experimenting!",
             },
-            bb_3 = {
+            bb_3 = { -- !!
                 "But keep an eye out on... oh...",
                 "you don't even want to know... {C:red,E:1}the horror...",
             },
-            bb_4 = {
+            bb_4 = { -- !!
                 "If you beat it... well...",
                 "I don't think I even need to say this...",
             },
-            bb_5 = {
+            bb_5 = { -- !!
                 "You should Try experimenting!",
             },
-            fh_1 = {
+            fh_1 = { -- !!
                 "You must play Poker hands to earn {C:purple}score.{}"
             },
-            fh_2 = {
+            fh_2 = { -- !!
                 "Each {C:attention}Poker hand{} has its own given base score",
             },
-            fh_3 = {
+            fh_3 = { -- !!
                 "Check this shit out",
             },
-            fh_4 = {
+            fh_4 = { -- !!
                 "Try experimenting! Cards might give some {C:blue}thing{}",
             },
-            fh_4_touch = {
+            fh_4_touch = { -- !!
                 "Try experimenting! Cards might give some {C:blue}things...{}",
             },
-            fh_5 = {
+            fh_5 = { -- !!
                 "You might want to",
                 "consider {E:1,C:red}Playing.....{}",
             },
-            fh_5_touch = {
+            fh_5_touch = { -- !!
                 "You might want to",
                 "consider {E:1,C:red}Playing.....{}",
             },
-            fh_6 = {
+            fh_6 = { -- !!
                 "you can {C:red,s:1.4}Rid yourself{} of cards sometimes...",
             },
-            fh_7 = {
+            fh_7 = { -- !!
                 "Careful! You don't want to know",
                 "what happens when these numbers reach 0...",
             },
-            fh_8 = {
+            fh_8 = { -- !!
                 "{s:3,C:red}Good Luck............",
             },
-            s_1 = {
+            s_1 = { -- !!
                 "Now that you have earned",
                 "{C:money,E:1,s:1.2}money, you{} may utilise the shop",
             },
-            s_10 = {
+            s_10 = { -- !!
                 "Pay close attention..",
                 "You may want to try experimenting with your eyes {f:emoji}👀👀👀👀👀👀👀👀👀👀",
             },
-            s_11 = {
+            s_11 = { -- !!
                 "{C:red,E:1,s:2}Watch out!{}",
             },
-            s_12 = {
+            s_12 = { -- !!
                 "Try experimenting with this Button",
             },
-            s_2 = {
+            s_2 = { -- !!
                 "Try experimenting!",
             },
-            s_2_touch = {
+            s_2_touch = { -- !!
                 "Try experimenting! You may find other {C:red}Jokers",
             },
-            s_3 = {
+            s_3 = { -- !!
                 "Try experimenting! You may find other {C:red}Jokers",
             },
-            s_4 = {
+            s_4 = { -- !!
                 "Try experimenting! This might add some Multipliers",
             },
-            s_5 = {
+            s_5 = { -- !!
                 "You might run out of room.. Try experimenting! at a time",
             },
-            s_6 = {
+            s_6 = { -- !!
                 "Try experimenting with some {C:green}Purchasing",
             },
-            s_7 = {
+            s_7 = { -- !!
                 "This is a Consumable card.",
                 "Try experimenting later.",
             },
-            s_8 = {
+            s_8 = { -- !!
                 "Try experimenting with having two at a time ........",
             },
-            s_9 = {
+            s_9 = { -- !!
                 "Try experimenting with not being a broke loser",
             },
-            sb_1 = {
+            sb_1 = { -- !!
                 "Hello there! My name is",
                 "{C:attention}...Well{}, Do i even need to say it?",
             },
-            sb_2 = {
+            sb_2 = { -- !!
                 "Your goal is to",
                 "defeat",
                 "the enemy {C:attention}Blind",
             },
-            sb_3 = {
+            sb_3 = { -- !!
                 "This here is the first blind, you won't",
                 "need much scores to beat it",
             },
-            sb_4 = {
+            sb_4 = { -- !!
                 "Start by selecting this blind",
             },
-            sh_1 = {
+            sh_1 = { -- !!
                 "When you get more cards, remember to experiment with them",
             },
-            sh_2 = {
+            sh_2 = { -- !!
                 "And make sure to well... you already know...",
             },
-            sh_3 = {
+            sh_3 = { -- !!
                 "Try experimenting!",
             },
-            sh_3_touch = {
+            sh_3_touch = { -- !!
                 "Try experimenting!",
             },
         },
