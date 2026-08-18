@@ -1,36 +1,29 @@
 return {
     descriptions = {
         Back = {
-            b_abandoned = {
+            b_abandoned = { -- !!
                 name = "Abandoned Deck",
                 text = {
-                    "Start run with",
-                    "no {C:attention}Face Cards",
-                    "in your deck",
+                    "A normal deck but... Is something missing?"
                 },
             },
-            b_anaglyph = {
+            b_anaglyph = { -- !!
                 name = "Anaglyph Deck",
                 text = {
-                    "After defeating each",
-                    "{C:attention}Boss Blind{}, gain a",
-                    "{C:attention,T:tag_double}#1#",
+                    "May generate Double Tags",
                 },
             },
-            b_black = {
+            b_black = { -- !!
                 name = "Black Deck",
                 text = {
-                    "{C:attention}+#1#{} Joker slot",
-                    "",
-                    "{C:blue}-#2#{} hand",
-                    "every round",
+                    "Gain a Joker slot..",
+                    "At a {C:red}cost{}{C:green}.{C:blue}.{C:attention}.",
                 },
             },
-            b_blue = {
+            b_blue = { -- !!
                 name = "Blue Deck",
                 text = {
-                    "{C:blue}+#1#{} hand",
-                    "every round",
+                    "More {C:blue,s:1.666}blue{}",
                 },
             },
             b_challenge = {
@@ -97,13 +90,11 @@ return {
                     "{C:red}#2#{} Joker slot",
                 },
             },
-            b_plasma = {
+            b_plasma = { -- !!
                 name = "Plasma Deck",
                 text = {
-                    "Balance {C:blue}Chips{} and",
-                    "{C:red}Mult{} when calculating",
-                    "score for played hand",
-                    "{C:red}X#1#{} base Blind size",
+                    "{C:green}Blends{} Chips and Mult...",
+                    "but the Blinds will {C:red}adapt...",
                 },
             },
             b_red = { -- !!
@@ -112,11 +103,10 @@ return {
                     "Who {C:attention}Knows{} Bro",
                 },
             },
-            b_yellow = {
+            b_yellow = { -- !!
                 name = "Yellow Deck",
                 text = {
-                    "Start with",
-                    "extra {C:money}$#1#",
+                    "Experiments with not being a {C:red,E:1}broke loser{} {C:money}#1# times{}",
                 },
             },
             b_zodiac = {
