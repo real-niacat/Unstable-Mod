@@ -106,7 +106,8 @@ return {
             b_yellow = { -- !!
                 name = "Yellow Deck",
                 text = {
-                    "Experiments with not being a {C:red,E:1}broke loser{} {C:money}#1# times{}",
+                    "Experiments with not being a",
+                    "{C:red,E:1}broke loser {C:money}#1# times{}",
                 },
             },
             b_zodiac = {
@@ -751,8 +752,8 @@ return {
             j_credit_card = { -- !!
                 name = "Credit Card",
                 text = {
-                    "You can go up to a certain amount into Debt",
-                    "You might want to look for a Wraith"
+                    "You can go up to a certain amount into {C:red,E:1}Debt{}",
+                    "You {s:1.2,E:usm_italic}might{} want to look for a {C:attention}Wrait{}h"
                 },
             },
             j_delayed_grat = {
