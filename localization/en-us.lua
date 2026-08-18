@@ -759,11 +759,11 @@ return {
                     "a {C:attention}#2#",
                 },
             },
-            j_credit_card={
+            j_credit_card={ -- !!
                 name="Credit Card",
                 text={
-                    "Go up to",
-                    "{C:red}-$#1#{} in debt",
+                    "You can go up to a certain amount into Debt"
+"You might want to look for a Wraith"
                 },
             },
             j_delayed_grat={
@@ -1108,14 +1108,14 @@ return {
                     "than {E:1,C:attention}4 Jokers{}",
                 },
             },
-            j_joker={
+            j_joker={ -- !!
                 name="Joker",
                 text={
                     "+4 Multiplier to your Chips",
                     "{C:inactive}Its {C:red,s:2.5,E:1}Me.......{}"
                 },
             },
-            j_jolly={
+            j_jolly={ -- !!
                 name="Jolly Joker",
                 text={
                     "{s:3}+#1#{C:attention} #2#{} Size",
